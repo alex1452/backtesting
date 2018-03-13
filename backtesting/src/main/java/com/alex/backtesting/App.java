@@ -30,11 +30,11 @@ public class App
 //    		 System.out.println(SC);
 //    		 test.SelectAllStockPrice(SC,14);
 //    	 }
+//b2
 //
-//
-//
-    	jdbcmysql test = new jdbcmysql(); 
-    	test.CaluculateRSIDays();
+    	jdbcmysql test = new jdbcmysql();
+    	test.createTable();
+    	//test.CaluculateRSIDays();
     		 
         
     }
