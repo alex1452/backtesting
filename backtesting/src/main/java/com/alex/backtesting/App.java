@@ -32,6 +32,7 @@ public class App
 //    	 }
 //b2
 //
+    	//Test
     	jdbcmysql test = new jdbcmysql();
     	test.createTable();
     	//test.CaluculateRSIDays();
